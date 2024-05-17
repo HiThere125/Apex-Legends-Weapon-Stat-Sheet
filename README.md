@@ -1,6 +1,6 @@
 This Excel File contains multiple sheets that aim to show stats that weapons in the Battle Royale game Apex Legends have.
 
-There are five sheets in the file:
+There are five sheets in the file:<br />
 1: Attachments: What attachments there are and what Weapon can equip them. Displayed using True and False with a Red/Green rule for the corresponding text<br />
 2: Rate of Fire: This sheet has the most data and contains the following<br />
   - Rate of fire for each weapon
